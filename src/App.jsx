@@ -25,7 +25,7 @@ export default function App() {
         <nav className="flex items-center justify-between p-6 lg:px-8" aria-label="Global ">
             <a href="#">
               <span className="sr-only">palindrome checker</span>
-              <h1 className="text-black font-bold text-sm ml-5">palindrome.</h1>
+              <h1 className="text-black font-bold text-md ml-5">palindrome.</h1>
             </a>
         </nav>
       </header>
